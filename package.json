@@ -1,0 +1,29 @@
+{
+  "name": "hapi",
+  "version": "1.0.0",
+  "description": "The Happy API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaphelyn/hAPI.git"
+  },
+  "keywords": [
+    "happy",
+    "api",
+    "uplifting",
+    "data",
+    "linux",
+    "node",
+    "javascript",
+    "express"
+  ],
+  "author": "Zaphelyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaphelyn/hAPI/issues"
+  },
+  "homepage": "https://github.com/Zaphelyn/hAPI#readme"
+}
