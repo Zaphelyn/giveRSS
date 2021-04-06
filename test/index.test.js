@@ -7,9 +7,7 @@ describe('Index page test', () => {
       .expect(200)
       .end((err, res) => {
         expect(res.status).to.equal(200);
-        expect(res.body.message).to.equal(
-          'Environment variable is coming across.'
-        );
+        expect(res.body).to.be.an('array');
         done();
       });
   });
