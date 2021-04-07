@@ -1,4 +1,4 @@
-import { urlOne } from '../settings';
+import { urlOne,urlTwo,urlThree,urlFour,urlFive,urlSix } from '../settings';
 import Parser from 'rss-parser';
 import jsdom from 'jsdom';
 
